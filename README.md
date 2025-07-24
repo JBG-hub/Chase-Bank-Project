@@ -29,7 +29,7 @@ Below is the Chase business overview dashboard, which can be viewed here.
 ### Deposit Growth Analysis
 - The company's total deposits had year-over-year (YoY) increases of 18%, 11%, 10%, 12%, 3%, and 9% from 2011-2016 respectively. The biggest YoY occured in 2011 and YoY percentages remained in double digits for four consecutive years. However, the latest years 2015-2016 show the growth rate cooled off to single-digit percentages, dipping as low as 3% in 2015. This raises concern that the CAGR rate of 10.6% may not be a sustainable forecast if growth continues to trend downward. 
 - Comparing branches' 2016 deposits to 2010 deposits, 4,411 out of 4,520 branches (98%) experienced an increase in deposits. Of the 109 branches with declining deposits, 2010 and 2016 deposits totaled $22M and $15M respectively. 17 States had at least one declining branch.
-- With Chase experiencing growth from 2010-2016, the company exceeded $1B in annual deposits twice in the most recent two years. The average annual deposits for 2010-2016 was around $0.9B. 
+- The company exceeded $1B in annual deposits in 2015 and 2016. The average annual deposits for the timespan 2010-2016 was $0.9B. In 2016, the $1.1B annual deposit ranked Chase as the second largest bank by total deposits, ranking only behind Bank of America ($1.2B) according to FDIC.
 
 ### Regional Opportunities
 - New York is the state with the largest amount of deposits, and by a considerable margin.
