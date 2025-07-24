@@ -21,6 +21,10 @@ The SQL queries that explore various metrics and rankings can be found here.
 # Data Structure Overview
 
 # Executive Summary
+### Overview of Findings
+Chase had deposit growth each year from 2010-2016, culminitating in total deposits of $1.1B for 2016 alone. The compound annual growth rate (CAGR) of deposits was 10.6% during this time. This growth is not attributable to branch openings, as the total operating branches in 2010 is nearly identical to the operating branches in 2016. This suggests the positive growth is likely driven by growing customer bases and customer activity at existing branches.
+
+
 
 
 # Insights Deep Dive
