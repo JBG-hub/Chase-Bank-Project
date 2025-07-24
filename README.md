@@ -22,12 +22,22 @@ The SQL queries that explore various metrics and rankings can be found here.
 
 # Executive Summary
 ### Overview of Findings
-Chase had deposit growth each year from 2010-2016, culminitating in total deposits of $1.1B for 2016 alone. The compound annual growth rate (CAGR) of deposits was 10.6% during this time. This growth is not attributable to branch openings, as the total operating branches in 2010 is nearly identical to the operating branches in 2016. This suggests the positive growth is likely driven by growing customer bases and customer activity at existing branches.
+Chase had deposit growth each year from 2010-2016, culminitating in total deposits of $1.1B for 2016 alone. The compound annual growth rate (CAGR) of deposits was 10.6% during this time. This growth is not attributable to branch openings, as the total operating branches in 2010 is nearly identical to the operating branches in 2016. This suggests the positive growth is likely driven by customer growth and increased customer activity at existing branches. The U.S. economy has also been growing since the 2008 financial crisis, with positive U.S. GDP growth rates from 2010-2016.
 
+Below is the Chase business overview dashboard, which can be viewed here.
 
+### Deposit Growth Analysis
+- YoY increases of x,x,x,x,x. The declining trend of growth does warrant conservative growth forecasts. 
+- 
 
-
-# Insights Deep Dive
+### Regional Opportunities
+- New York is the state with the largest amount of deposits, and by a considerable margin.
+- States with the highest population generally have the most bank branches.
+- Florida
+- Population shifting Southward and Westward, these regions offer higher potential.
+  
+### Urban Density Trends
+- 
 
 # Recommendations
 
