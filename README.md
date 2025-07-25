@@ -7,9 +7,9 @@ Chase is the U.S. consumer and commercial banking business of JPMorgan Chase & C
 Utilizing Chase deposit data covering U.S. branches from 2010-2016, this project provides insights and recommendations for Chase's banking business.
 
 Insights and recommendations are for the following key areas:
-- Deposit Growth Analysis: An evaluation of deposit activity trends over the data's timeframe.
+- Deposit Growth: An analysis of deposit activity trends over the data's timeframe.
 - Regional Opportunities: An assessment of Chase's current operations and areas for potential growth.
-- Urban Density Trends: An analysis of Urban Density on branch metrics.
+- Urban Density: An evaluation of major cities and the weight of their impact on state performance.
 
 The Tableau dashboard can be found here.
 
@@ -36,9 +36,9 @@ Below is the Chase business overview dashboard, which can be viewed here.
 - As of 2016, the company is operating in 23 different states. The three most populated states that Chase does not operate in are Pennsylvania, North Carolina, and Virginia, which rank 6th, 9th and 12th respectively according to census.gov estimates for 2016. Due to their population and major cities, these states offer lots of expansion opportunity.
 - The company has over 500 branches in each of California, New York and Texas. While Florida rivals these states in terms of population according to census.gov, in terms of branch count Florida was lagging with only 214 branches. This low branch count led to Florida accounting for the 9th most total deposits, despite a population ranking 3rd. It is recommended to expand inside Florida to fully realize the deposit potential of this populous state.
   
-### Urban Density Trends
-- 
-- Look at what numbers say and then report. Don’t get too rigorous. Story of what happened. Build a thing, look at a thing and share what it tells us.
+### Urban Density Evaluation
+- Major U.S. cities have a tremendous impact on state performance. The top performing city in 18 out of 23 states had over 25% of its respective state's total deposits, with New York City topping the list with an 85% contribution to its state deposits. When expanding into new states or expanding in states with operations already, the greatest impact will be felt by focusing on the largest city within that state.
+- Using Texas as a case study, Houston and Dallas combined for 52% and 22% of Texas' total deposits respectively. The other 127 cities with Chase branches made up the other 26%, with no other city claiming more than a 3% share. Houston has 120 branches that average $3.7M deposits, while Dallas has 54 branches that average $3.5M. 
 # Recommendations
 
 #
