@@ -32,14 +32,13 @@ Below is the Chase business overview dashboard, which can be viewed here.
 - The company exceeded $1B in annual deposits in 2015 and 2016. The average annual deposits for the timespan 2010-2016 was $0.9B. In 2016, the $1.1B annual deposit ranked Chase as the second largest bank by total deposits, ranking only behind Bank of America ($1.2B) according to FDIC.
 
 ### Regional Opportunities
-- New York is the state with the largest amount of deposits, and by a considerable margin.
-- States with the highest population generally have the most bank branches.
-- Florida
-- Population shifting Southward and Westward, these regions offer higher potential.
+- New York is the number one contributing state by deposits, and by a significant margin. New York accounted for $2.9B deposits from 2010-2016, which represents 47% of the $6.1B total deposits recorded across all states. The next largest state by deposits is Texas with $0.9B. 
+- As of 2016, the company is operating in 23 different states. The three most populated states that Chase does not operate in are Pennsylvania, North Carolina, and Virginia, which rank 6th, 9th and 12th respectively according to census.gov estimates for 2016. Due to their population and major cities, these states offer lots of expansion opportunity.
+- The company has over 500 branches in each of California, New York and Texas. While Florida rivals these states in terms of population according to census.gov, in terms of branch count Florida was lagging with only 214 branches. This low branch count led to Florida accounting for the 9th most total deposits, despite a population ranking 3rd. It is recommended to expand inside Florida to fully realize the deposit potential of this populous state.
   
 ### Urban Density Trends
 - 
-
+- Look at what numbers say and then report. Don’t get too rigorous. Story of what happened. Build a thing, look at a thing and share what it tells us.
 # Recommendations
 
 #
