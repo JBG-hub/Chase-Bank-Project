@@ -38,7 +38,7 @@ Below is the Chase business overview dashboard, which can be viewed here.
   
 ### Urban Density Evaluation
 - Major U.S. cities have a tremendous impact on state performance. The top performing city in 18 out of 23 states had over 25% of its respective state's total deposits, with New York City topping the list with an 85% contribution to its state deposits. When expanding into new states or expanding in states with operations already, the greatest impact will be felt by focusing on the largest city within that state.
-- Using Texas as a case study, Houston and Dallas combined for 52% and 22% of Texas' total deposits respectively. The other 127 cities with Chase branches made up the other 26%, with no other city claiming more than a 3% share. Houston has 120 branches that average $3.7M deposits, while Dallas has 54 branches that average $3.5M. 
+- Using Texas as a case study, Houston and Dallas combined for 52% and 22% of Texas' total deposits respectively. The other 127 cities with Chase branches made up the rest of the share, with no other city claiming more than a 3% share. Houston has 120 branches that average $3.7M deposits, while Dallas has 54 branches that average $3.5M. Houston and Dallas have the highest average deposits per branch in the state, nearly tripling the next best average. Texas is an example of how branches take in more deposits in major cities, which is attributable to those cities' denser populations and greater economic output.
 # Recommendations
 
 #
