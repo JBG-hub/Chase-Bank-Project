@@ -9,7 +9,7 @@ Utilizing Chase deposit data covering U.S. branches from 2010-2016, this project
 Insights and recommendations are for the following key areas:
 - Deposit Growth: An analysis of deposit activity trends over the data's timeframe.
 - Regional Opportunities: An assessment of Chase's current operations and areas for potential growth.
-- Urban Density: An evaluation of major cities and the weight of their impact on state performance.
+- Urban Density: An evaluation of the impact major cities have on deposit performance.
 
 The Tableau dashboard can be found here.
 
