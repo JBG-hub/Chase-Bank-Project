@@ -19,6 +19,11 @@ The SQL queries that explore various metrics and rankings can be found here.
 
 
 # Data Structure Overview
+The project consists of one table with a total row count of 4,520.
+
+<img width="227" height="355" alt="table columns" src="https://github.com/user-attachments/assets/a887d277-ebd8-41b7-8d41-de71e9a135c4" />
+
+Data cleaning procedures were used to prepare the source data for further analysis. The data cleaning SQL queries can be found here. 
 
 # Executive Summary
 ### Overview of Findings
