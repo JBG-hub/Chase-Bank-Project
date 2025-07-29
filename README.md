@@ -29,6 +29,9 @@ Data cleaning procedures were used to prepare the source data for further analys
 ### Overview of Findings
 Chase had deposit growth each year from 2010-2016, culminitating in total deposits of $1.1B for 2016 alone. The compound annual growth rate (CAGR) of deposits was 10.6% during this time. This growth is not attributable to branch openings, as the total operating branches in 2010 is nearly identical to the operating branches in 2016. This suggests the positive growth is likely driven by customer growth and increased customer activity at existing branches. The U.S. economy is attributing to deposit growth as well, as since the 2008 financial crisis the U.S. has seen positive GDP growth rates from 2010-2016.
 
+<img width="366" height="256" alt="image" src="https://github.com/user-attachments/assets/1fc14921-ea5c-4ee9-95bd-9f0c85799de4" />
+
+
 Below is the Chase business overview dashboard, which can be viewed here.
 
 ### Deposit Growth Analysis
@@ -40,6 +43,9 @@ Below is the Chase business overview dashboard, which can be viewed here.
 - New York is the number one contributing state by deposits, and by a significant margin. New York accounted for $2.9B deposits from 2010-2016, which represents 47% of the $6.1B total deposits recorded across all states. The next largest state by deposits is Texas with $0.9B. 
 - As of 2016, the company is operating in 23 different states. The three most populated states that Chase does not operate in are Pennsylvania, North Carolina, and Virginia, which rank 6th, 9th and 12th respectively according to census.gov estimates for 2016.
 - The company has over 500 branches in each of California, New York and Texas. While Florida rivals these states in terms of population according to census.gov, in terms of branch count Florida was lagging with only 214 branches. This low branch count led to Florida accounting for the 9th most total deposits, despite a population ranking 3rd.
+
+<img width="576" height="260" alt="image" src="https://github.com/user-attachments/assets/e7a05a19-88be-4e64-9e12-2424f360a134" />
+
   
 ### Urban Density Evaluation
 - Major U.S. cities have a tremendous impact on state performance. The top performing city in 18 out of 23 states had over 25% of its respective state's total deposits, with New York City topping the list with an 85% contribution to its state deposits. When expanding into new states or expanding in states with operations already, the greatest impact will be felt by focusing on the largest city within that state.
