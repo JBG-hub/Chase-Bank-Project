@@ -9,7 +9,7 @@ Insights and recommendations are for the following key areas:
 - Regional Opportunities: An assessment of Chase's current operational presence and areas for potential expansion.
 - Urban Density: An evaluation of the impact major cities have on deposit performance.
 
-The Tableau dashboard can be found here.
+The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
 
 The SQL queries that clean, prepare, and validate data for the dashboard can be found here.
 
@@ -45,14 +45,14 @@ Year | U.S. GDP Growth Rate
 
 [^2]: https://www.macrotrends.net/global-metrics/countries/usa/united-states/gdp-growth-rate.
 
-To see the Chase business overview dashboard, click here.
+To see the Chase business overview dashboard, click [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
 
 ### Deposit Growth Analysis
 - The company's total deposits had year-over-year (YoY) increases of 18%, 11%, 10%, 12%, 3%, and 9% from 2011-2016 respectively. The biggest YoY occured in 2011 and YoY percentages remained in double digits for four consecutive years. However, the latest years 2015-2016 show the growth rate cooled off to single-digit percentages, dipping as low as 3% in 2015. This raises concern that the CAGR rate of 10.6% may not be a sustainable forecast if growth continues to trend downward.
-<img width="560" height="48" alt="image" src="https://github.com/user-attachments/assets/a44514a2-9f5e-4faa-a4b0-7cbf526759db" />
-
 - Comparing branches' 2016 deposits to 2010 deposits, 4,411 out of 4,520 branches (98%) experienced an increase in deposits. Of the 109 branches with declining deposits, 2010 and 2016 deposits totaled $22M and $15M respectively. 17 States had at least one declining branch.
 - The company exceeded $1B in annual deposits in 2015 and 2016. The average annual deposits for the timespan 2010-2016 was $0.9B. In 2016, the $1.1B annual deposit ranked Chase as the second largest bank by total deposits, ranking only behind Bank of America ($1.2B) according to FDIC.
+
+<img width="560" height="48" alt="image" src="https://github.com/user-attachments/assets/a44514a2-9f5e-4faa-a4b0-7cbf526759db" />
 
 ### Regional Opportunities
 - New York is the number one contributing state by deposits, and by a significant margin. New York accounted for $2.9B deposits from 2010-2016, which represents 47% of the $6.1B total deposits recorded across all states. The next largest state by deposits is Texas with $0.9B. 
