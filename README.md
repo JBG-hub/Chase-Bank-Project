@@ -35,6 +35,8 @@ Chase had deposit growth each year from 2010-2016, culminitating in total deposi
 Below is the Chase business overview dashboard, which can be viewed here.
 
 ### Deposit Growth Analysis
+<img width="560" height="48" alt="image" src="https://github.com/user-attachments/assets/a44514a2-9f5e-4faa-a4b0-7cbf526759db" />
+
 - The company's total deposits had year-over-year (YoY) increases of 18%, 11%, 10%, 12%, 3%, and 9% from 2011-2016 respectively. The biggest YoY occured in 2011 and YoY percentages remained in double digits for four consecutive years. However, the latest years 2015-2016 show the growth rate cooled off to single-digit percentages, dipping as low as 3% in 2015. This raises concern that the CAGR rate of 10.6% may not be a sustainable forecast if growth continues to trend downward. 
 - Comparing branches' 2016 deposits to 2010 deposits, 4,411 out of 4,520 branches (98%) experienced an increase in deposits. Of the 109 branches with declining deposits, 2010 and 2016 deposits totaled $22M and $15M respectively. 17 States had at least one declining branch.
 - The company exceeded $1B in annual deposits in 2015 and 2016. The average annual deposits for the timespan 2010-2016 was $0.9B. In 2016, the $1.1B annual deposit ranked Chase as the second largest bank by total deposits, ranking only behind Bank of America ($1.2B) according to FDIC.
@@ -44,12 +46,15 @@ Below is the Chase business overview dashboard, which can be viewed here.
 - As of 2016, the company is operating in 23 different states. The three most populated states that Chase does not operate in are Pennsylvania, North Carolina, and Virginia, which rank 6th, 9th and 12th respectively according to census.gov estimates for 2016.
 - The company has over 500 branches in each of California, New York and Texas. While Florida rivals these states in terms of population according to census.gov, in terms of branch count Florida was lagging with only 214 branches. This low branch count led to Florida accounting for the 9th most total deposits, despite a population ranking 3rd.
 
-<img width="576" height="260" alt="image" src="https://github.com/user-attachments/assets/e7a05a19-88be-4e64-9e12-2424f360a134" />
+<img width="432" height="195" alt="image" src="https://github.com/user-attachments/assets/e7a05a19-88be-4e64-9e12-2424f360a134" />
 
   
 ### Urban Density Evaluation
 - Major U.S. cities have a tremendous impact on state performance. The top performing city in 18 out of 23 states had over 25% of its respective state's total deposits, with New York City topping the list with an 85% contribution to its state deposits. When expanding into new states or expanding in states with operations already, the greatest impact will be felt by focusing on the largest city within that state.
 - Using Texas as a case study, Houston and Dallas combined for 52% and 22% of Texas' total deposits respectively. The other 127 cities with Chase branches made up the rest of the share, with no other city claiming more than a 3% share. Houston has 120 branches that average $3.7M deposits, while Dallas has 54 branches that average $3.5M. Houston and Dallas have the highest average deposits per branch in the state, nearly tripling the next best average. Texas is an example of how branches take in more deposits in major cities, which is attributable to those cities' denser populations and greater economic output.
+
+<img width="442" height="298" alt="image" src="https://github.com/user-attachments/assets/9a0b9028-9b1d-4839-9681-1e5180f5351c" />
+
 # Recommendations
 Based on the findings above, the following recommendations are provided:
 - As of 2016, Chase is the second largest U.S. bank and has been growing steadily since 2010, although the deposit growth did slow in 2015 and 2016 compared to previous years. In light of slowing growth, Chase should invest heavily into marketing its value and service offerings that come from banking with a large national bank to increase its brand recognition with local residents. Chase could also offer attractive promotions to win over more customers who already do business with competing banks, such as Chase's national competitors Bank of America and Wells Fargo, as well as regional and local banks.
