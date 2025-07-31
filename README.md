@@ -11,9 +11,9 @@ Insights and recommendations are for the following key areas:
 
 The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
 
-The SQL queries that clean, prepare, and validate data for the dashboard can be found here.
+The SQL queries that clean, prepare, and validate data for the dashboard can be found [here](https://github.com/JBG-hub/Chase-Bank-Project/blob/main/chase_branches_data_cleaning.sql).
 
-The SQL queries that explore various metrics and rankings can be found here.
+The SQL queries that explore various metrics and rankings can be found [here](https://github.com/JBG-hub/Chase-Bank-Project/blob/main/chase_branches_exploration.sql).
 
 
 # Source Data & Data Structure Overview
@@ -24,7 +24,7 @@ Data cleaning procedures were used to prepare the source data for further analys
 
 <img width="227" height="355" alt="table columns" src="https://github.com/user-attachments/assets/a887d277-ebd8-41b7-8d41-de71e9a135c4" />
 
-The data cleaning SQL queries can be found here. 
+The data cleaning SQL queries can be found [here](https://github.com/JBG-hub/Chase-Bank-Project/blob/main/chase_branches_data_cleaning.sql). 
 
 # Executive Summary
 ### Overview of Findings
