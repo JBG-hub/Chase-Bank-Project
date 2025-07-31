@@ -43,7 +43,7 @@ Year | U.S. GDP Growth Rate
 2015 | 2.95%
 2016 | 1.82%
 
-[^2]: https://www.macrotrends.net/global-metrics/countries/usa/united-states/gdp-growth-rate.
+[^2]: U.S. GDP Growth rates found at macrotrends.net: https://www.macrotrends.net/global-metrics/countries/usa/united-states/gdp-growth-rate.
 
 To see the Chase business overview dashboard, click [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
 
@@ -56,11 +56,12 @@ To see the Chase business overview dashboard, click [here](https://public.tablea
 
 ### Regional Opportunities
 - New York is the number one contributing state by deposits, and by a significant margin. New York accounted for $2.9B deposits from 2010-2016, which represents 47% of the $6.1B total deposits recorded across all states. The next largest state by deposits is Texas with $0.9B. 
-- As of 2016, the company is operating in 23 different states. The three most populated states that Chase does not operate in are Pennsylvania, North Carolina, and Virginia, which rank 6th, 9th and 12th respectively according to census.gov estimates for 2016[^2].
+- As of 2016, the company is operating in 23 different states. The three most populated states that Chase does not operate in are Pennsylvania, North Carolina, and Virginia, which rank 6th, 9th and 12th respectively according to census.gov estimates for 2016[^3].
 - The company has over 500 branches in each of California, New York and Texas. While Florida rivals these states in terms of population according to census.gov, in terms of branch count Florida was lagging with only 214 branches. This low branch count led to Florida accounting for the 9th most total deposits, despite a population ranking 3rd.
 
 <img width="432" height="195" alt="image" src="https://github.com/user-attachments/assets/e7a05a19-88be-4e64-9e12-2424f360a134" />
 
+[^3]: State populations were taken from census.gov: https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx
   
 ### Urban Density Evaluation
 - Major U.S. cities have a tremendous impact on state performance. The top performing city in 18 out of 23 states had over 25% of its respective state's total deposits, with New York City topping the list with an 85% contribution to its state deposits. 
