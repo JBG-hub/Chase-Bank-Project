@@ -9,7 +9,7 @@ Insights and recommendations are for the following key areas:
 - Regional Opportunities: An assessment of Chase's current operational presence and areas for potential expansion.
 - Urban Density: An evaluation of the impact major cities have on deposit performance.
 
-The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
+For an overview visualization of the project, the Chase deposit Tableau dashboard can be found [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
 
 The SQL queries that clean, prepare, and validate data for the dashboard can be found [here](https://github.com/JBG-hub/Chase-Bank-Project/blob/main/chase_branches_data_cleaning.sql).
 
@@ -45,7 +45,7 @@ Year | U.S. GDP Growth Rate
 
 [^2]: U.S. GDP Growth rates found at macrotrends.net: https://www.macrotrends.net/global-metrics/countries/usa/united-states/gdp-growth-rate.
 
-To see the Chase business overview dashboard, click [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
+To see the Chase deposit dashboard, click [here](https://public.tableau.com/app/profile/jb.gauch/viz/chase_branches_visualization/ChaseDashboard).
 
 ### Deposit Growth Analysis
 - The company's total deposits had year-over-year (YoY) increases of 18%, 11%, 10%, 12%, 3%, and 9% from 2011-2016 respectively. The biggest YoY occured in 2011 and YoY percentages remained in double digits for four consecutive years. However, the latest years 2015-2016 show the growth rate cooled off to single-digit percentages, dipping as low as 3% in 2015. This raises concern that the CAGR rate of 10.6% may not be a sustainable forecast if growth continues to trend downward.
